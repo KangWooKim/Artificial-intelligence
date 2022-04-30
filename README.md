@@ -1,2 +1,2 @@
 # Artificial-intelligence
-University Lecture
+sample code
